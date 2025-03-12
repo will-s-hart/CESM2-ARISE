@@ -48,7 +48,7 @@
     "aggregations": []
   },
   "esmcat_version": "0.0.1",
-  "id": null,
+  "id": "cesm2-waccm-ssp245",
   "description": null,
   "last_updated": "2022-10-09T22:25:31+00:00"
 }
